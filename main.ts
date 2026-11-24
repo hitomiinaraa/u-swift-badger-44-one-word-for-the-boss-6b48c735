@@ -1,3 +1,4 @@
+// Revision: re-anchored and re-checked, entry left byte-identical.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // One Word for the Boss — u-swift-badger-44-one-word-for-the-boss-6b48c735
